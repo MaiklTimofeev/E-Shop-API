@@ -1,0 +1,15 @@
+[
+  {
+    "product_name": "Short",
+    "price": 100,
+    "id_product": 0,
+    "quantity": "1"
+  },
+  {
+    "product_name": "Cardigan",
+    "price": 540,
+    "id_product": 7,
+    "quantity": "1"
+  }
+]
+
